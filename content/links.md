@@ -6,3 +6,4 @@ title = 'Kennel Linux Links'
 - [Kennel Linux distros](https://forum.puppylinux.com/viewforum.php?f=231)
 - [Kennel Linux development](https://forum.puppylinux.com/viewforum.php?f=194)
 - [FirstRib GitLab repo](https://gitlab.com/firstrib/firstrib)
+- [Website GitHub repo](https://github.com/KennelLinux/KennelLinux.github.io)
