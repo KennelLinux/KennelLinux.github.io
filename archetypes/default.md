@@ -1,4 +1,4 @@
 +++
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+title = 'Kennel Linux {{ replace .File.ContentBaseName "-" " " | title }}'
 +++
